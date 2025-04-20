@@ -1,0 +1,7 @@
+# Ignore build directory
+build/
+
+# Other common ignores
+*.exe
+*.out
+*.log
